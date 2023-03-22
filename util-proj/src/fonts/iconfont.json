@@ -1,0 +1,30 @@
+{
+  "id": "3944918",
+  "name": "utilpro",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "82757",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1304889",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "8124852",
+      "name": "灯",
+      "font_class": "deng",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
